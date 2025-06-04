@@ -17,7 +17,7 @@ This project is a Power BI dashboard designed to analyze and visualize stock mar
 ## Files
 - `InvestmentBankingDashboard.pbix` — Power BI report file.
 - Python scripts for data extraction using yfinance.
-- Excel files used for data preparation (if any).
+- Excel files used for data preparation .
 
 ## How to Use
 1. Open the `InvestmentBankingDashboard.pbix` file in Power BI Desktop.
@@ -28,6 +28,7 @@ This project is a Power BI dashboard designed to analyze and visualize stock mar
 - Power BI Desktop
 - Python (yfinance library)
 - Microsoft Excel
+- jupyter notebook
 
 ## Author
 Your Name (Adarsh M, adarshgowda99800@gmail.com)
