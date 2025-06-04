@@ -31,7 +31,7 @@ This project is a Power BI dashboard designed to analyze and visualize stock mar
 - jupyter notebook
 
 ## Author
-Your Name (Adarsh M, adarshgowda99800@gmail.com)
+(Adarsh M, adarshgowda99800@gmail.com)
 
 ---
 
